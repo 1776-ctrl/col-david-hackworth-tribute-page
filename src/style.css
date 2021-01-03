@@ -1,0 +1,49 @@
+body {
+ background-color: #D3D3D3;
+  
+}
+#img-div {
+ background-color: white;
+ 
+}
+#main {
+  text-align: center;
+}
+
+#timeline-title{
+  text-align:center;
+  font-size: 20px;
+}
+
+#img-caption{
+  text-align: center;
+  font-size: 13px;
+}
+
+a:hover {
+  color: red;
+}
+a:visited{
+  color: purple;
+}
+
+#tribute-info {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.image-hack {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+#footer {
+  text-align:center;
+}
+
+
+
+
